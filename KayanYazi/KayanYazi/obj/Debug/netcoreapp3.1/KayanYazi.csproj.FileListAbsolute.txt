@@ -1,0 +1,13 @@
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.exe
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.deps.json
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.runtimeconfig.json
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.runtimeconfig.dev.json
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.dll
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\bin\Debug\netcoreapp3.1\KayanYazi.pdb
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.csprojAssemblyReference.cache
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.AssemblyInfoInputs.cache
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.AssemblyInfo.cs
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.csproj.CoreCompileInputs.cache
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.dll
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.pdb
+C:\Users\merge\source\repos\KayanYazi\KayanYazi\obj\Debug\netcoreapp3.1\KayanYazi.genruntimeconfig.cache
